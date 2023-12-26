@@ -87,6 +87,7 @@ test_prediction = mm_obj.inverse_transform(myModel.predict(X_test))
 print(math.sqrt(mean_squared_error(mm_obj.inverse_transform(y_train.reshape(-1,1)),train_prediction)))
 print(math.sqrt(mean_squared_error(mm_obj.inverse_transform(y_test.reshape(-1,1)),test_prediction)))
 
+
 # mm_obj.inverse_transform(y_train.reshape(-1,1))
 # train_prediction
 
