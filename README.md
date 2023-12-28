@@ -1,0 +1,1 @@
+Implemented a Bitcoin price prediction model utilising 3 APIs, incorporating two for Bitcoin price data and one for news data. Trained a stacked LSTM model on historical data, focusing on Bitcoin price and corresponding news sentiment. Demonstrated competence in data cleaning, structuring and handling multiple APIs and implementing machine learning models
